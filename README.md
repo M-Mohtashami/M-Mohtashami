@@ -1,7 +1,7 @@
 ### [Mohammad Mohtashami](https://github.com/M-Mohtashami)
 ---
 # 💫 About Me:
-I'm a front-end web developer specializing in React.js, Next.js, and TypeScript.<br> I focus on creating clean and intuitive interfaces that deliver great user experiences.<br> Check out my GitHub repositories to see some of my work. <br>Let's connect and collaborate on a project!
+I'm a front-end web developer specializing in React.js, Next.js, and TypeScript. I focus on creating clean and intuitive interfaces that deliver great user experiences. Check out my GitHub repositories to see some of my work. Let's connect and collaborate on a project!
 
 
 ## 🌐 Socials:
